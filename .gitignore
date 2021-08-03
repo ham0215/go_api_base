@@ -15,3 +15,5 @@ go_api_base
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+tmp
